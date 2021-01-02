@@ -1,0 +1,100 @@
+{
+  "id": "2302847",
+  "name": "taobao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577393",
+      "name": "顶部",
+      "font_class": "dingbu",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "887904",
+      "name": "购物车 (1)",
+      "font_class": "gouwuche1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "887965",
+      "name": "我的 (2)",
+      "font_class": "wode2",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "979230",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1638194",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2480667",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4598257",
+      "name": "大于号",
+      "font_class": "dayuhao",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7644385",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8875697",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "11346881",
+      "name": "计算机 算数",
+      "font_class": "jisuanjisuanshu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11641868",
+      "name": "叉",
+      "font_class": "cha",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "12751547",
+      "name": "收藏",
+      "font_class": "shoucang_huaban",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "18865116",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
